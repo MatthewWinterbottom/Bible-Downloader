@@ -4,11 +4,11 @@
     <projectFile>BibleDownloader.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00e557ef-750b-41ac-880a-31a9bc42e1b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BibleDownloader/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BibleDownloader/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BibleDownloader/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BibleDownloader/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="00e557ef-750b-41ac-880a-31a9bc42e1b0" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Extensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BibleDownloader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BibleDownloader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BibleDownloader.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BibleDownloader.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +64,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650269459701</updated>
-      <workItem from="1650269468834" duration="315000" />
+      <workItem from="1650269468834" duration="1159000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1650269848826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650269848826</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,22 +92,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Program.cs</url>
-          <line>2</line>
-          <properties documentPath="C:\Users\Matthew\source\repos\Bible-Downloader\BibleDownloader\Program.cs" initialLine="2" containingFunctionPresentation="">
+          <line>20</line>
+          <properties documentPath="C:\Users\Matthew\source\repos\Bible-Downloader\BibleDownloader\Program.cs" initialLine="18" containingFunctionPresentation="">
             <startOffsets>
-              <option value="65" />
+              <option value="456" />
             </startOffsets>
             <endOffsets>
-              <option value="100" />
+              <option value="490" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
